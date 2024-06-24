@@ -13,8 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       
-      - name: jtcortex/mdsamples PUBLIC repository
-        uses: jtcortex/mdsample@main
+      - name: jtcorc01/mdsamples PUBLIC repository
+        uses: jtcorc01/mdsample@main
         with:
           owner: 'jtcortex'
           repository: 'mdsample'
